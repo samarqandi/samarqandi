@@ -10,7 +10,7 @@
 <h2 align="center">Languages and Tools</h2>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Linux-%23333?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Fedora-%23333?style=for-the-badge&logo=fedora&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-NVim-%23333?style=for-the-badge&logo=nvim&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-NeoVim-%23333?style=for-the-badge&logo=neovim&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Lua-%23333?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Dart-%23333?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Flutter-%23333?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
