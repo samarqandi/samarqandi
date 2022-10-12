@@ -16,7 +16,8 @@
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Flutter-%23333?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Go-%23333?style=for-the-badge&logo=go&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Rust-%23333?style=for-the-badge&logo=rust&logoColor=white" target="_blank"></a>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
+
 
 
 <div align="center">
