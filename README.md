@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/sanjar-ibragimov-0b6634225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <h2 align="center">Languages and Tools</h2>
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Linux-%23333?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
 <div align="center">
   <a href="https://github.com/samarqandi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarqandi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
