@@ -10,7 +10,7 @@
 <h2 align="center">Languages and Tools</h2>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Linux-%23333?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Alacritty-#F46D01?style=for-the-badge&logo=alacritty&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
