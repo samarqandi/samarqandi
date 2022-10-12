@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjar!</h1>
 <br>
+<h2 align="left">Connect with me</h2>
 <div align ="center"> 
   <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://t.me/samarqandidev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
