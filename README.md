@@ -9,6 +9,10 @@
 </div>
 <h2 align="center">Languages and Tools</h2>
 <a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Linux-%23333?style=for-the-badge&logo=linux&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Fedora-%23333?style=for-the-badge&logo=fedora&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Dart-%23333?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Flutter-%23333?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sanjar_yahyo" target="_blank"><img src="https://img.shields.io/badge/-Go-%23333?style=for-the-badge&logo=go&logoColor=white" target="_blank"></a>
 <div align="center">
   <a href="https://github.com/samarqandi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarqandi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
